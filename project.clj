@@ -1,4 +1,4 @@
-(defproject net.ofnir/clj-http-request "0.1.2"
+(defproject net.ofnir/clj-http-request "0.1.3-SNAPSHOT"
   :description "Helper functions to create the most common requests for HTTP client libraries"
   :url "https://github.com/christoph-frick/clj-http-request"
   :license {:name "MIT"
